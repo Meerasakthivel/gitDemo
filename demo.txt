@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Hi!This is a Git Demo!
-=======
-Hii this is a git demo!new change revoke:) 
->>>>>>> 8c5dcf0fc1ed36a290ae4dc9aaf6bc5ba1d8bdef
+Hi!This is a Git Demo!New change made :) 
